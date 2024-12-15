@@ -94,10 +94,20 @@ This project aims to:
 
 ---
 
+## 7. Taem
+
+- Aditya Patil
+- Jay Likhar
+- Diya Nahar
+- Anjali Kumari
+- Sumit Soni
+
+---
 
 
 
-## 7. References
+
+## 8. References
 
 - MEAN Stack Documentation: [https://mean.io/](https://mean.io/)
 - Angular Documentation: [https://angular.io/docs](https://angular.io/docs)
