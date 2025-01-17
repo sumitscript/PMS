@@ -120,3 +120,20 @@ This project aims to:
 
 This project aims to improve the culture of project-building in colleges by providing a transparent, collaborative, and centralized platform. Students will benefit from peer learning, while colleges can leverage the platform to showcase student work to recruiters.
 
+## Deployment Instructions
+
+### 1. Clone the repository
+To get started, clone this repository to your local machine using Git:
+
+```bash
+git clone https://github.com/sumitscript/PMS.git
+
+### 2. Install Dependencies
+
+```bash
+npm install express nodemon path mongoose mongodb
+
+### 2. Run project
+
+```bash
+npm start
