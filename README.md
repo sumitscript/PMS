@@ -128,12 +128,14 @@ To get started, clone this repository to your local machine using Git:
 ```bash
 git clone https://github.com/sumitscript/PMS.git
 
+---
 ### 2. Install Dependencies
 
 ```bash
 npm install express nodemon path mongoose mongodb
+---
 
-### 2. Run project
+### 3. Run project
 
 ```bash
 npm start
